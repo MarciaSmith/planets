@@ -1,3 +1,6 @@
 text about mars.
-we are goinf to expand to venus too
+we are going to expand to venus too
 Add a new line to planets-lab
+
+This line is in the owners copy planet
+
