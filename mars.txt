@@ -1,2 +1,3 @@
 text about mars.
-we are goinf to expand to venus too
+we are going to expand to venus too
+This line is in the owners copy planet
